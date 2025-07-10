@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "b": {
+      "tag": "c:cooked_bacon"
+    },
+    "c": {
+      "item": "farmersdelight:pie_crust"
+    },
+    "e": {
+      "tag": "c:eggs"
+    },
+    "f": {
+      "tag": "btbnw:cheese"
+    },
+    "l": {
+      "item": "farmersdelight:cabbage_leaf"
+    },
+    "m": {
+      "tag": "c:milks"
+    }
+  },
+  "pattern": [
+    "blb",
+    "mfm",
+    "ece"
+  ],
+  "result": {
+    "item": "brewinandchewin:quiche"
+  }
+}
