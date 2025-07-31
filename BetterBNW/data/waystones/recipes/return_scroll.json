@@ -1,0 +1,23 @@
+{
+  "replace": true,
+  "result": {
+    "item": "minecraft:sand",
+    "count": 1
+  },
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GEG",
+    "PPP"
+  ],
+  "key": {
+    "G": {
+      "tag": "balm:gold_nuggets"
+    },
+    "E": {
+      "tag": "balm:purple_dyes"
+    },
+    "P": {
+      "item": "minecraft:paper"
+    }
+  }
+}
